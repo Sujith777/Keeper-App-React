@@ -1,5 +1,7 @@
 A clone of Google Keep for notes using ReactJS.
-Live Preview of the app is hosted through netlify here: https://melodic-bombolone-1fe128.netlify.app/  
+
+# Live Preview 
+https://melodic-bombolone-1fe128.netlify.app/  
 
 # Getting Started with Create React App
 
